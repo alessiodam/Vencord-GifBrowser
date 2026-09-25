@@ -18,8 +18,8 @@ User plugins require a [Vencord build from source](https://docs.vencord.dev/inst
 cd Vencord/src/userplugins
 git clone https://github.com/alessiodam/Vencord-GifBrowser gifBrowser
 cd ../..
-pnpm build    # or: bun run build
-pnpm inject   # or: bun run inject
+pnpm build
+pnpm inject
 ```
 
 Then enable **GifBrowser** in Settings → Vencord → Plugins. For tags, also install and enable GifTags.
