@@ -1,0 +1,2 @@
+# Local dev only: lets the Vencord build resolve @api/@utils/... through the symlink
+tsconfig.json
